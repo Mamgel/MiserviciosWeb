@@ -15,7 +15,7 @@ La arquitectura permite separar las responsabilidades de la aplicación en servi
 ```text
                        
  - Frontend :5001        
- HTTP / JSON
+ -HTTP / JSON
  - microUsers :5002                 
  - microProducts: :5003
 
@@ -231,13 +231,13 @@ http://192.168.80.3:8500
 
 API de usuarios:
 
-```text
+```
 http://192.168.80.3:5002/api/users
 ```
 
 API de productos:
 
-```text
+```
 http://192.168.80.3:5003/api/products
 ```
 
@@ -254,8 +254,8 @@ Los endpoints permiten verificar las operaciones CRUD implementadas en cada micr
 ##  Autores
 
 Proyecto desarrollado como parte de las actividades académicas de Computación en la Nube por:
-Cristian Andrés Mera
-Miguel Ángel Mosquera González
+- *Cristian Andrés Mera*
+- *Miguel Ángel Mosquera González*
 
 
 
